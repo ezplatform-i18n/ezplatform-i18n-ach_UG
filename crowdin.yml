@@ -5,11 +5,10 @@ files:
       /translations/%locale_with_underscore%/**/%file_name%.%locale%.%file_extension%
     languages_mapping:
       locale:
-        en-US: en_US
-        pl: pl
         de: de
         el: el
-        es: es
+        en-US: en_US
+        es-ES: es
         fi: fi
         fr: fr
         hi: hi
@@ -18,8 +17,8 @@ files:
         it: it
         ja: ja
         nb: nb
-        no: no
         nl: nl
+        pl: pl
         pt-PT: pt
         ru: ru
         zh-HK: zh_HK
