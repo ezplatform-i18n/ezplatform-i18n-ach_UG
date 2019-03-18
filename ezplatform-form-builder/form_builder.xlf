@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="3f906d4d0bd35a175f501ab96fc7d4c2b2c3ec71" resname="drag.drop.call.to.action">
         <source>Create a form by dragging and dropping elements here</source>
-        <target>Create a form by dragging and dropping elements here</target>
+        <target state="new">Create a form by dragging and dropping elements here</target>
         <note>key: drag.drop.call.to.action</note>
       </trans-unit>
       <trans-unit id="511e68af2de52872af1c2d07215631d54d5df0a1" resname="field.invalid">
@@ -38,12 +38,12 @@
       </trans-unit>
       <trans-unit id="81feac9c1754220f9ea3354d88cf49d263c09941" resname="field.remove">
         <source>Remove</source>
-        <target>Remove</target>
+        <target state="new">Remove</target>
         <note>key: field.remove</note>
       </trans-unit>
       <trans-unit id="b2df64a559c6f9166c782a24eee835d78f4f402b" resname="field.settings">
         <source>Settings</source>
-        <target>Settings</target>
+        <target state="new">Settings</target>
         <note>key: field.settings</note>
       </trans-unit>
       <trans-unit id="1ef0657bf94b6c1594d67f719920c7fb66d51ed6" resname="form.cannot.be.empty">
@@ -122,8 +122,8 @@
         <note>key: invalid.fields</note>
       </trans-unit>
       <trans-unit id="0a01e36bbd3d88beacae4e0c3b9f79d8523c2daa" resname="moved.field.data.not.exists">
-        <source>moved.field.data.not.exists</source>
-        <target>moved.field.data.not.exists</target>
+        <source>Moved field data does not exist!</source>
+        <target state="new">Moved field data does not exist!</target>
         <note>key: moved.field.data.not.exists</note>
       </trans-unit>
       <trans-unit id="4ca91a461622421947258e5e7e305704088e4b7b" resname="no.fields.in.form">
